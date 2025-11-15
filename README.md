@@ -16,9 +16,7 @@ A website is deemed "Cognitively-Kind" only if it adheres to these principles:
 ## 🧭 Table of Contents
 
 * [Deep Reading & Essays (Anti-Feed)](#deep-reading--essays-anti-feed)
-* [Creative Projects & Art (Human-Authored)](#creative-projects--art-human-authored)
-* [Utility & Tools (Single-Purpose)](#utility--tools-single-purpose)
-* [Reference & Learning (Static)](#reference--learning-static)
+* [Community & Discussion (Structured Forums)](#community--discussion-structured-forums)
 * [Contributing](#contributing)
 
 ---
@@ -30,7 +28,14 @@ Thought-provoking, well-written essays and long-form content that you seek out d
 * [**The Marginalian**](https://www.themarginalian.org/) - *Maria Popova's timeless reflections on art, science, philosophy, and poetry. Articles are organized by date or subject, not a feed.*
 * [**Kottke.org**](https://kottke.org/) - *One of the oldest blogs, sharing curated links to fascinating, high-quality content. Content is chronological and hand-picked.*
 
+## 💬 Community & Discussion (Structured Forums)
 
+Platforms that use traditional message board structures, prioritizing chronological discussion and human-generated content over personalized feeds.
+
+* [**Hacker News (YC)**](https://news.ycombinator.com/) - *A simple, text-based discussion board focused on technology, startups, and human thought. Comments are purely chronological, heavily filtered for substance, and not a personalized feed.*
+* [**Physics Forums**](https://www.physicsforums.com/) - *A massive, highly moderated, serious science and engineering discussion community. Content is organized by topic and date, not algorithm, ensuring high-signal focus.*
+* [**LinuxQuestions**](https://www.linuxquestions.org/) - *A classic, plain-text forum for supporting the Linux operating system. Focus is technical problem-solving and human collaboration in chronological threads.*
+* [**The Straight Dope Message Board**](https://boards.straightdope.com/) - *Features extensive, in-depth, human-written debates and research on history, language, and science. Strictly moderated for logic and substance.*
 ---
 
 ## 🧑‍💻 Contributing
